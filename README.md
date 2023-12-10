@@ -1,1 +1,1 @@
-# InAI-Advances-in-Anomaly-Detection-with-Normalizing-Flow
+# InAI: Advances in Anomaly Detection with Normalizing Flow
